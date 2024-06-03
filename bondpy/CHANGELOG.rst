@@ -2,8 +2,8 @@
 Changelog for package bondpy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+4.1.0 (2024-06-03)
+------------------
 * bondpy migration to ROS2 (`#89 <https://github.com/ros/bond_core/issues/89>`_)
 * [ros2] Update maintainers - 2022-11-07 (`#90 <https://github.com/ros/bond_core/issues/90>`_)
 * Contributors: Antoine, Audrow Nash
